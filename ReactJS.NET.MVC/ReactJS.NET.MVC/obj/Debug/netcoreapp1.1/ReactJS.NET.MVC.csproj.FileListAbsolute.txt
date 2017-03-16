@@ -1,0 +1,9 @@
+c:\users\mpaterson\documents\visual studio 2017\Projects\ReactJS.NET.MVC\ReactJS.NET.MVC\bin\Debug\netcoreapp1.1\ReactJS.NET.MVC.deps.json
+c:\users\mpaterson\documents\visual studio 2017\Projects\ReactJS.NET.MVC\ReactJS.NET.MVC\bin\Debug\netcoreapp1.1\ReactJS.NET.MVC.runtimeconfig.json
+c:\users\mpaterson\documents\visual studio 2017\Projects\ReactJS.NET.MVC\ReactJS.NET.MVC\bin\Debug\netcoreapp1.1\ReactJS.NET.MVC.runtimeconfig.dev.json
+c:\users\mpaterson\documents\visual studio 2017\Projects\ReactJS.NET.MVC\ReactJS.NET.MVC\bin\Debug\netcoreapp1.1\ReactJS.NET.MVC.dll
+c:\users\mpaterson\documents\visual studio 2017\Projects\ReactJS.NET.MVC\ReactJS.NET.MVC\obj\Debug\netcoreapp1.1\ReactJS.NET.MVC.csprojResolveAssemblyReference.cache
+c:\users\mpaterson\documents\visual studio 2017\Projects\ReactJS.NET.MVC\ReactJS.NET.MVC\obj\Debug\netcoreapp1.1\ReactJS.NET.MVC.AssemblyInfo.cs
+c:\Users\mpaterson\Documents\Visual Studio 2017\Projects\ReactJS.NET.MVC\ReactJS.NET.MVC\bin\Debug\netcoreapp1.1\ReactJS.NET.MVC.pdb
+c:\Users\mpaterson\Documents\Visual Studio 2017\Projects\ReactJS.NET.MVC\ReactJS.NET.MVC\obj\Debug\netcoreapp1.1\ReactJS.NET.MVC.dll
+c:\Users\mpaterson\Documents\Visual Studio 2017\Projects\ReactJS.NET.MVC\ReactJS.NET.MVC\obj\Debug\netcoreapp1.1\ReactJS.NET.MVC.pdb
