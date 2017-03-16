@@ -7,4 +7,4 @@ Template for:
 
 Works on Visual Studio Mac and Visual Studio 2017.
 
-More information at <https://reactjs.net/>
+More information at <https://reactjs.net/> and <https://www.microsoft.com/net/core>
